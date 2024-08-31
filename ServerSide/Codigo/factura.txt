@@ -1,0 +1,12 @@
+Fecha: Tue Sep 06 23:14:44 ECT 2022
+------------------------------------------ 
+1
+------------------------------------------ 
+Factura No: 1
+Producto 	 	 Precio 	 Cantidad 	 Precio Total 
+Leche	 	     1.0	 0	0.0
+Tomates	 	1.23	 0	0.0
+Papa	 	1.5	 0	0.0
+MonsterEnergy	 	 3.0	 0	0.0
+El total a pagar es : 0.0
+

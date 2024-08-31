@@ -1,0 +1,4 @@
+Leche 1.00 true lacteos 5
+Tomates 1.23 false frutas 6
+Papa 1.5 false verduras 7
+MonsterEnergy 3.0 true bebidasEnergia 5
